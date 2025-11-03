@@ -4,7 +4,7 @@ export default function AwardsSection() {
       <div className="container mx-auto text-center">
         <h2 className="text-5xl font-bold mb-6">Awards</h2>
         <p className="text-gray-700 max-w-3xl mx-auto mb-16">
-          As a service-first team, cwre is built from a foundation of trust, experience, and integrity. We are passionate and daring professionals and we care about our clients, so it's no surprise that we're being recognised for our success in the African Real Estate Market.
+          As a service-first team, Poly Property is built from a foundation of trust, experience, and integrity. We are passionate and daring professionals and we care about our clients, so it's no surprise that we're being recognised for our success in the Nigerian Real Estate Market.
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 justify-items-center">
           <div className="flex flex-col items-center">
