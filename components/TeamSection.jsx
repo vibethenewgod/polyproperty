@@ -18,11 +18,11 @@ export default function TeamSection() {
       title: "Residential Sales Agent",
       image: "/professional-asian-female-realtor.jpg",
     },
-    {
-      name: "Chris BROWN",
-      title: "Property Manager",
-      image: "/chris.jpg",
-    },
+    // {
+    //   name: "Chris BROWN",
+    //   title: "Property Manager",
+    //   image: "/chris.jpg",
+    // },
   ]
 
   return (
